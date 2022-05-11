@@ -95,7 +95,7 @@
 ## 🙋‍♂️ Let's Connect
 <p align="center">
   <a href="https://theanarchists.ltd"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="https://github.com/KryptNodes"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/1MP4C7x1337"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.facebook.com/m.eredjebov"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.youtube.com/channel/UCZpAEkaKY3d-yQ13X4rtTLg"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
